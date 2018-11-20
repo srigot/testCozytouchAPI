@@ -1,0 +1,7 @@
+{
+  "proxy" : "http://193.56.47.8:8080",
+  "hostname" : "ha110-1.overkiz.com",
+  "path" : "/enduser-mobile-web/externalAPI/json/",
+  "userId" : "xxx",
+  "userPassword" : "xxx"
+}
